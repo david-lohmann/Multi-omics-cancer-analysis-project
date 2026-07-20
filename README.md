@@ -73,6 +73,7 @@ therefore requires an internet connection at runtime; all other steps run fully 
 - **Low-count filtering:** genes with a total count below 10 across the relevant sample subset
   are removed before fitting.
 - **PCA:** top 500 most variable genes (log2 of size-factor normalized counts).
+- **Gene Enrichment Analysis**
 
 ## Repository structure
 
